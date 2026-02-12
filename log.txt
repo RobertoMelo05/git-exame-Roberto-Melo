@@ -1,0 +1,5 @@
+git clone – copia um repositório remoto para o computador.
+
+git add – adiciona alterações à staging area.
+
+git commit – guarda as alterações no histórico do repositório.
